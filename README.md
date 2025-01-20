@@ -4,17 +4,17 @@ Bu depo, C programlama dilinde yazılmış çeşitli örnekler ve uygulamaları 
 
 ## İçindekiler
 Bu depoda yer alan bazı örnek başlıkları şunlardır:
-1 **Fiziksel Bağlantılar ve Hesaplamalar**
+1. **Fiziksel Bağlantılar ve Hesaplamalar**
   - Belirli fiziksel formüller ve hesaplamaların uygulamaları
-2 **Dosya İşlemleri**
+2. **Dosya İşlemleri**
   - Dosya okuma, yazma ve düzenleme uygulamaları
-3 **Dizi ve Matris İşlemleri**
+3. **Dizi ve Matris İşlemleri**
   - Diziler ve matrisler üzerinde yapılan işlemler
-4 **Temel Fonksiyon Örnekleri**
+4. **Temel Fonksiyon Örnekleri**
   - Fonksiyon tanımları ve kullanımı
-5 **Pointer Kullanımı**
+5. **Pointer Kullanımı**
   - İşaretçilerin temel kullanımı ve çeşitli örnek uygulamaları
-6 **Temel Algoritmalar**
+6. **Temel Algoritmalar**
   - Basit algoritmaların uygulanması
 
 ## Kurulum
