@@ -4,46 +4,46 @@ Bu depo, C programlama dilinde yazılmış çeşitli örnekler ve uygulamaları 
 
 ## İçindekiler
 1. Değişkenler ve Temel Kavramlar
-Degiskenler Ile Ilk Ornek
-Pointerlar Ile Ornek Uygulama
-İşaretçilerle Hafıza Yönetimi
-Sabitler ve Değişkenler Arasındaki Farklar
+- Degiskenler Ile Ilk Ornek
+- Pointerlar Ile Ornek Uygulama
+- İşaretçilerle Hafıza Yönetimi
+- Sabitler ve Değişkenler Arasındaki Farklar
 2. Fonksiyonlar
-Fonksiyon Tanımları ve Kullanımları
-Fonksiyonlarda Recursive Kullanım Örnekleri
-Fonksiyonlarla Toplama ve Çarpma İşlemleri
+- Fonksiyon Tanımları ve Kullanımları
+- Fonksiyonlarda Recursive Kullanım Örnekleri
+- Fonksiyonlarla Toplama ve Çarpma İşlemleri
 3. Diziler ve Matrisler
-Dizi Tanımlama ve Kullanım
-Çok Boyutlu Diziler
-Matris Çarpımı Örnekleri
-Dizi Elemanlarına Erişim ve İşlem Yapma   
+- Dizi Tanımlama ve Kullanım
+- Çok Boyutlu Diziler
+- Matris Çarpımı Örnekleri
+- Dizi Elemanlarına Erişim ve İşlem Yapma   
 4. Dosya İşlemleri
-Dosya Okuma ve Yazma İşlemleri
-Dosya Düzenleme ve Silme Uygulamaları
+- Dosya Okuma ve Yazma İşlemleri
+- Dosya Düzenleme ve Silme Uygulamaları
 5. Algoritmalar ve Döngüler
 Bubble Sort Algoritması
-Fibonacci Serisi Hesaplama
-Döngülerle Çarpım Tablosu
-Karmaşık Algoritmaların Temel Mantığı 
+- Fibonacci Serisi Hesaplama
+- Döngülerle Çarpım Tablosu
+- Karmaşık Algoritmaların Temel Mantığı 
 6. Pointer Kullanımı
-Pointer Temelleri
-Dinamik Bellek Yönetimi
-Pointerlar ile Dizi İşlemleri
+- Pointer Temelleri
+- Dinamik Bellek Yönetimi
+- Pointerlar ile Dizi İşlemleri
 7. Yapılar ve Nesne Tabanlı Programlama
-Yapı Tanımları ve Kullanım Örnekleri
-Struct Kullanarak Verilerin Düzenlenmesi
-Nesne Tabanlı Programlama Temelleri
+- Yapı Tanımları ve Kullanım Örnekleri
+- Struct Kullanarak Verilerin Düzenlenmesi
+- Nesne Tabanlı Programlama Temelleri
 8. Matematiksel İşlemler
-Matematik Fonksiyonları ile Çalışmalar
-Trigonometri Fonksiyonlarının Kullanımı
+- Matematik Fonksiyonları ile Çalışmalar
+- Trigonometri Fonksiyonlarının Kullanımı
 9. Sistem Programlama
-Dosya ve Hafıza Yönetimi
-Sistem Çağrıları ve İşletim Sistemi İşlemleri
+- Dosya ve Hafıza Yönetimi
+- Sistem Çağrıları ve İşletim Sistemi İşlemleri
 
 ## Kurulum
 Bu kodları çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
-1. Depoyu klonlayın:
+Depoyu klonlayın:
    ```bash
    git clone https://github.com/FatmaBuseBorlu/C-Example.git
 
