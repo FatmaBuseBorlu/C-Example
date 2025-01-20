@@ -3,21 +3,19 @@
 Bu depo, C programlama dilinde yazılmış çeşitli örnekler ve uygulamaları içerir.  Youtube de bulunan **MURAT YÜCEDAĞ** hocamızın hazırlamış olduğu *60 Derste C İle Programlamaya Giriş* kursunun örneklerini ve ödevleri yer almaktadır. Temel C kodlarından algoritmalara kadar birçok farklı konuda örnekler sunulmaktadır.
 
 ## İçindekiler
-
-1. **Fiziksel Bağlantılar ve Algoritmalar**
-   - C dilinde fiziksel formüller ve matematiksel algoritmaların uygulamaları.
-2. **Dizi ve Matriks İşlemleri**
-   - Çok boyutlu diziler üzerinde çeşitli matematiksel ve algoritmik işlemler.
-3. **Dosya İşlemleri**
-   - Dosya okuma, yazma ve düzenleme işlemleri.
-4. **Arama ve Sıralama Algoritmaları**
-   - Bubble sort, selection sort gibi sıralama algoritmaları ve arama yöntemleri.
-5. **Pointer Kullanımı**
-   - İşaretçilerin temel kullanımı ve uygulamaları.
-6. **Fonksiyonlar**
-   - Fonksiyonlarla ilgili temel ve ileri düzey örnekler.
-7. **Veri Yapıları**
-   - Bağlı listeler, yığınlar, kuyruklar ve diğer veri yapıları örnekleri.
+Bu depoda yer alan bazı örnek başlıkları şunlardır:
+- **Fiziksel Bağlantılar ve Hesaplamalar**:
+  - Belirli fiziksel formüller ve hesaplamaların uygulamaları.
+- **Dosya İşlemleri**:
+  - Dosya okuma, yazma ve düzenleme uygulamaları.
+- **Dizi ve Matris İşlemleri**:
+  - Diziler ve matrisler üzerinde yapılan işlemler.
+- **Temel Fonksiyon Örnekleri**:
+  - Fonksiyon tanımları ve kullanımı.
+- **Pointer Kullanımı**:
+  - İşaretçilerin temel kullanımı ve çeşitli örnek uygulamaları.
+- **Temel Algoritmalar**:
+  - Basit algoritmaların uygulanması.
 
 ## Kurulum
 Bu kodları çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
