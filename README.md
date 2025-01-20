@@ -1,6 +1,6 @@
 # C Örnekleri
 
-Bu depo, C programlama dilinde yazılmış çeşitli örnekler ve uygulamaları içerir.  Youtube de bulunan **MURAT YÜCEDAĞ** hocamızın hazırlamış olduğu *60 Derste C İle Programlamaya Giriş* kursunun örneklerini ve ödevleri yer almaktadır. Temel C kodlarından algoritmalara kadar birçok farklı konuda örnekler sunulmaktadır.
+Bu depo, C programlama dilinde yazılmış çeşitli örnekler ve uygulamaları içerir.  Youtube de bulunan **MURAT YÜCEDAĞ** hocamızın hazırlamış olduğu [*60 Derste C İle Programlamaya Giriş*](https://www.youtube.com/watch?v=eIChume5VWQ&list=PLKnjBHu2xXNP-E_TjR-g5Tslm6dW4UH_3) kursunun örneklerini ve ödevleri yer almaktadır. Temel C kodlarından algoritmalara kadar birçok farklı konuda örnekler sunulmaktadır.
 
 ## İçindekiler
 1. [Dosya İşlemleri](#dosya-işlemleri)
