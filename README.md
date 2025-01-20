@@ -41,9 +41,8 @@ Bubble Sort Algoritması
 - Sistem Çağrıları ve İşletim Sistemi İşlemleri
 
 ## Kurulum
-Bu kodları çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+Bu kodları çalıştırmak için aşağıdaki adımla depoyu klonlayın:
 
-Depoyu klonlayın:
    ```bash
    git clone https://github.com/FatmaBuseBorlu/C-Example.git
 
