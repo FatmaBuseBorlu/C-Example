@@ -4,7 +4,7 @@ Bu depo, C programlama dilinde yazılmış çeşitli örnekler ve uygulamaları 
 
 ## İçindekiler
 1. Değişkenler ve Temel Kavramlar
--Yazdırma Metodu (- [printf](https://github.com/FatmaBuseBorlu/C-Example/blob/main/1-Printf%20Ki%C5%9Fi%20Bilgilerini%20Alan.c) - [printf](https://github.com/FatmaBuseBorlu/C-Example/blob/main/2-%C3%96%C4%9Frenci%20Bilgilerini%20Yazd%C4%B1ran.c))
+- Yazdırma Metodu ([printf](https://github.com/FatmaBuseBorlu/C-Example/blob/main/1-Printf%20Ki%C5%9Fi%20Bilgilerini%20Alan.c)(https://github.com/FatmaBuseBorlu/C-Example/blob/main/2-%C3%96%C4%9Frenci%20Bilgilerini%20Yazd%C4%B1ran.c))
 - Degiskenler ([char](https://github.com/FatmaBuseBorlu/C-Example/blob/main/3-Kitap%20Bilgilerini%20Yazd%C4%B1ran.c), int, float
 - Pointerlar 
 - İşaretçilerle Hafıza Yönetimi
