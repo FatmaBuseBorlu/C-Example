@@ -4,8 +4,9 @@ Bu depo, C programlama dilinde yazılmış çeşitli örnekler ve uygulamaları 
 
 ## İçindekiler
 1. Değişkenler ve Temel Kavramlar
-- Degiskenler Ile Ilk Ornek
-- Pointerlar Ile Ornek Uygulama
+-Yazdırma Metodu (- [printf](https://github.com/FatmaBuseBorlu/C-Example/blob/main/1-Printf%20Ki%C5%9Fi%20Bilgilerini%20Alan.c) - [printf](https://github.com/FatmaBuseBorlu/C-Example/blob/main/2-%C3%96%C4%9Frenci%20Bilgilerini%20Yazd%C4%B1ran.c))
+- Degiskenler ([char](https://github.com/FatmaBuseBorlu/C-Example/blob/main/3-Kitap%20Bilgilerini%20Yazd%C4%B1ran.c), int, float
+- Pointerlar 
 - İşaretçilerle Hafıza Yönetimi
 - Sabitler ve Değişkenler Arasındaki Farklar
 2. Fonksiyonlar
@@ -21,7 +22,6 @@ Bu depo, C programlama dilinde yazılmış çeşitli örnekler ve uygulamaları 
 - Dosya Okuma ve Yazma İşlemleri
 - Dosya Düzenleme ve Silme Uygulamaları
 5. Algoritmalar ve Döngüler
-Bubble Sort Algoritması
 - Fibonacci Serisi Hesaplama
 - Döngülerle Çarpım Tablosu
 - Karmaşık Algoritmaların Temel Mantığı 
